@@ -1,0 +1,39 @@
+
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: 19_ant_simple
+url: https://github.com/tboenig/19_ant_simple
+authors:
+  - name: Boenig
+    surname: Matthias
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - digitization
+      - support
+description: >-
+  Ground Truth with a collection of documents with the following
+  characteristics:
+
+  Font: antiqua
+project-name: OCR-D
+project-website: https://ocr-d.de/
+language:
+  - deu
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1800'
+  notAfter: '1900'
+hands:
+  count: '3'
+  level: levelmix
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_structure_and_text
+format: Page-XML
