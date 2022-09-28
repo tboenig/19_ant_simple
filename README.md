@@ -26,12 +26,14 @@ Font: antiqua</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>84</td>
+            <td>3</td>
+            <td>20</td>
          </tr>
       </tbody>
    </table>
@@ -60,7 +62,27 @@ Font: antiqua</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>blumenbach_anatomie_1805</td>
+                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>84</td>
+                  <td>3</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
