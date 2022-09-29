@@ -39,9 +39,24 @@ font antiqua</dd>
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
-      <summary>granularity/physical/document-related/word</summary>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
       <p>
-         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
+         <strong>Description: </strong>More than one font size used</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+      <p>
+         <strong>Description: </strong>More than one typeface used</p>
+   </details>
+   <details>
+      <summary>data-attributes/language/mixed</summary>
+      <p>
+         <strong>Description: </strong>More than one language used</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
    </details>
    <details>
       <summary>granularity/physical/document-related/text-line</summary>
@@ -51,24 +66,9 @@ font antiqua</dd>
                     </p>
    </details>
    <details>
-      <summary>granularity/physical/document-related/region</summary>
+      <summary>granularity/physical/document-related/word</summary>
       <p>
-         <strong>Description: </strong>Region, zone, block</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-      <p>
-         <strong>Description: </strong>More than one typeface used</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>
-         <strong>Description: </strong>More than one font size used</p>
-   </details>
-   <details>
-      <summary>data-attributes/language/mixed</summary>
-      <p>
-         <strong>Description: </strong>More than one language used</p>
+         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
    </details>
 </div>
 <div class="metadata">
@@ -78,7 +78,7 @@ font antiqua</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/19_ant_simple/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/tboenig/19_ant_simple/releases/download/v8/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/19_ant_simple/releases">Version archive</a>
