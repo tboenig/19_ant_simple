@@ -134,8 +134,8 @@
    </thead>
    <tbody>
       <tr>
-         <th>blumenbach_anatomie_1805_0047.xml</th>
-         <td>8</td>
+         <th>blumenbach_anatomie_1805_0049.xml</th>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -149,7 +149,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>29</td>
+         <td>26</td>
          <td>1</td>
       </tr>
       <tr>
@@ -172,8 +172,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>blumenbach_anatomie_1805_0049.xml</th>
-         <td>6</td>
+         <th>blumenbach_anatomie_1805_0047.xml</th>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -187,7 +187,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>26</td>
+         <td>29</td>
          <td>1</td>
       </tr>
    </tbody>
