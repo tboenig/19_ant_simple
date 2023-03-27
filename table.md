@@ -240,7 +240,7 @@ font antiqua</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/19_ant_simple/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0049.xml">blumenbach_anatomie_1805_0049.xml</a>
+                              <a href="https://github.com/tboenig/19_ant_simple/blob/v1.0.0/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0049.xml">blumenbach_anatomie_1805_0049.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -261,7 +261,7 @@ font antiqua</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/19_ant_simple/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0048.xml">blumenbach_anatomie_1805_0048.xml</a>
+                              <a href="https://github.com/tboenig/19_ant_simple/blob/v1.0.0/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0048.xml">blumenbach_anatomie_1805_0048.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -282,7 +282,7 @@ font antiqua</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/19_ant_simple/blob/main/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0047.xml">blumenbach_anatomie_1805_0047.xml</a>
+                              <a href="https://github.com/tboenig/19_ant_simple/blob/v1.0.0/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0047.xml">blumenbach_anatomie_1805_0047.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
