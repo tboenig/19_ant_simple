@@ -1,7 +1,0 @@
-
-                            
-                            page-xml-draw -i /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0048.xml -o /home/runner/work/19_ant_simple/19_ant_simple/ghout/drawImg/blumenbach_anatomie_1805_0048.png -b /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE -p /home/runner/work/19_ant_simple/19_ant_simple/scripts/structure_text_profile.json
-                            
-                            page-xml-draw -i /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0049.xml -o /home/runner/work/19_ant_simple/19_ant_simple/ghout/drawImg/blumenbach_anatomie_1805_0049.png -b /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE -p /home/runner/work/19_ant_simple/19_ant_simple/scripts/structure_text_profile.json
-                            
-                            page-xml-draw -i /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE/blumenbach_anatomie_1805_0047.xml -o /home/runner/work/19_ant_simple/19_ant_simple/ghout/drawImg/blumenbach_anatomie_1805_0047.png -b /home/runner/work/19_ant_simple/19_ant_simple/data/blumenbach_anatomie_1805/GT-PAGE -p /home/runner/work/19_ant_simple/19_ant_simple/scripts/structure_text_profile.json

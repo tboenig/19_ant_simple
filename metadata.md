@@ -178,7 +178,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/19_ant_simple/releases/download/v1.0.3/bagitDump-v14.zip">Current version download: bagitDump-v14.zip</a>
+         <a href="https://github.com/tboenig/19_ant_simple/releases/download/v1.1.3/bagitDump-v17.zip">Current version download: bagitDump-v17.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/19_ant_simple/releases">Version archive</a>
